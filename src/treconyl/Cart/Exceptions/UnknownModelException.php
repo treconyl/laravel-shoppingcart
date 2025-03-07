@@ -1,6 +1,6 @@
 <?php
 
-namespace Darryldecode\Cart\Exceptions;
+namespace Treconyl\Cart\Exceptions;
 
 class UnknownModelException extends \Exception
 { }

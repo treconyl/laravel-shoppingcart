@@ -1,4 +1,4 @@
-<?php namespace Darryldecode\Cart\Helpers;
+<?php namespace Treconyl\Cart\Helpers;
 
 /**
  * Created by PhpStorm.

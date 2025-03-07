@@ -1,4 +1,4 @@
-<?php namespace Darryldecode\Cart;
+<?php namespace Treconyl\Cart;
 
 use Illuminate\Support\ServiceProvider;
 
