@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Darryldecode\\": "src/Darryldecode"
+            "Treconyl\\": "src/Treconyl"
         }
     },
     "minimum-stability": "stable",
@@ -30,10 +30,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Darryldecode\\Cart\\CartServiceProvider"
+                "Treconyl\\Cart\\CartServiceProvider"
             ],
             "aliases": {
-                "Cart": "Darryldecode\\Cart\\Facades\\CartFacade"
+                "Cart": "Treconyl\\Cart\\Facades\\CartFacade"
             }
         }
     }
